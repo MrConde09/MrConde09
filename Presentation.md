@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mario Cordoba  
+- 👀 I’m interested in software programming 
+- 🌱 I’m currently learning in Javascript, Typescript, Nodes & React.
+- 🖥 I'm study  Object-oriented programming in (C#, Asp.net and Core), web designer in (HTML, CSS) and Database with (SQL).
+- I like to focus on results, be responsible and work for common goals.
